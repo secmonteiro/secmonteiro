@@ -1,4 +1,4 @@
-a# Welcome! I'm Felipe Monteiro.
+# Welcome! I'm Felipe Monteiro.
 UNICEUB student, taking my first graduation in computer science 💻🇧🇷
 
 **About me**
